@@ -10,6 +10,8 @@ This repository documents my journey through the Data Science course at WBS Codi
 **Dates:** June 3 - November 30, 2024  
 **Duration:** 24-week part-time (408 hours)
 
+My certificate can be found in the [certificates](./certificates) directory.
+
 ## Acquired Skills
 
 During this comprehensive Data Science program, I developed proficiency in the following areas:
@@ -28,3 +30,8 @@ During this comprehensive Data Science program, I developed proficiency in the f
 ## Projects
 
 This repository contains projects and assignments completed during the course.
+
+## Repository Structure
+
+- [certificates/](./certificates) - Contains my Data Science certification from WBS Coding School
+- SQL files - SQL projects and assignments from the course
