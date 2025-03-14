@@ -8,7 +8,7 @@ This repository documents my journey through the Data Science course at WBS Codi
 **Institution:** WBS Coding School  
 **Course:** Data Science  
 **Dates:** June 3 - November 30, 2024  
-**Duration:** 24-week part-time (408 hours)
+
 
 My certificate can be found in the [certificates](./certificates) directory.
 
