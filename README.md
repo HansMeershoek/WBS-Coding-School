@@ -27,5 +27,3 @@ During this comprehensive Data Science program, I developed proficiency in the f
 - Generative AI
 
 
-- [certificates/](./certificates) - Contains my Data Science certification from WBS Coding School
-
