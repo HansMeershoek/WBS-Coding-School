@@ -1,4 +1,4 @@
-# WBS-Coding-School
+tificates# WBS-Coding-School
 
 ## Education / Certification
 
@@ -9,7 +9,7 @@
 **Dates:** June 3 - November 30, 2024  
 
 
-My certificate can be found in the [certificates](./-this-) directory.
+My certificate can be found in [-this-](./certificates) directory.
 
 ## Skills
 
