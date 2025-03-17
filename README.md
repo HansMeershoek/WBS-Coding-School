@@ -9,7 +9,7 @@
 **Dates:** June 3 - November 30, 2024  
 
 
-My certificate can be found in the [certificates](./certificates) directory.
+My certificate can be found in the [certificates](./-this-) directory.
 
 ## Skills
 
