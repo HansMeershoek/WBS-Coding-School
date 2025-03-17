@@ -1,4 +1,4 @@
-tificates# WBS-Coding-School
+# WBS-Coding-School
 
 ## Education / Certification
 
@@ -8,10 +8,8 @@ tificates# WBS-Coding-School
 
 **Dates:** June 3 - November 30, 2024  
 
-
-My certificate can be found [here](./certificates)
-
 ## Skills
+
 
 During this comprehensive Data Science program, I developed proficiency in the following areas:
 
@@ -25,5 +23,8 @@ During this comprehensive Data Science program, I developed proficiency in the f
 - Unsupervised Machine Learning (K-Means Clustering)
 - Supervised Machine Learning (Scikit-Learn)
 - Generative AI
+
+
+  My certificate can be found [here](./certificates)
 
 
